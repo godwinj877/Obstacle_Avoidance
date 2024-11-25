@@ -1,0 +1,5 @@
+<library path="gazebo_mecanum_plugins">
+    <class type="GazeboMecanumRosDrive" base_class_type="gazebo::ModelPlugin">
+      <description>This is a mecanum drive plugin.</description>
+    </class>
+  </library>
